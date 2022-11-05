@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/dolappo" target="blank"><img src="https://img.shields.io/twitter/follow/dolappo?logo=twitter&style=for-the-badge" alt="dolappo" /></a> </p>
 
-- 🔭 I’m currently working on a [Survey app](https://github.com/dolappo/survey_app)
+- 🔭 I’m currently working on a [Just us(A personal project)]
 
 - 🌱 I’m currently learning **Dart, Algorithms & Data Structures**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Firebase and all things Design**
 
-- 📫 How to reach me **dolapofalanajames@gmail.com**
+- 📫 How to reach me **dolapofalanajames@gmail.com or omodolappo@gmail.com**
 
 - ⚡ Fun fact **I read code more than I write it**
 
