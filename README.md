@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Dolapo Falana</h2>
-<h3 align="center">Flutter Developer, Loves to learn new stuffs, Lover of Arts</h3>
+<h3 align="center">Mobile Developer, Loves to learn new stuffs, Lover of Arts</h3>
 
 <p align="center"> <a href="https://twitter.com/dolappo" target="blank"><img src="https://img.shields.io/twitter/follow/dolappo?logo=twitter&style=for-the-badge" alt="dolappo" /></a> </p>
 
