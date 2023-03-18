@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/dolappo" target="blank"><img src="https://img.shields.io/twitter/follow/dolappo?logo=twitter&style=for-the-badge" alt="dolappo" /></a> </p>
 
-- 🔭 I’m currently working on Just us(A personal project)
+
 
 - 🌱 I’m currently learning **Dart, Algorithms & Data Structures**
 
