@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **dolapofalanajames@gmail.com or omodolappo@gmail.com**
 
-- ⚡ Fun fact **I read code more than I write it**
+- ⚡ Fun fact **I read code more than I write**
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dolappo&" alt="dolappo" /></p>
 
