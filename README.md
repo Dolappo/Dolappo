@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **Dart, Algorithms & Data Structures**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dolappo](https://github.com/dolappo)
 
-- 💬 Ask me about **Flutter, Dart, Firebase and all things Design**
+- 💬 Ask me about **Flutter, Dart, Firebase and all things Mobile app, and Design**
 
 - 📫 How to reach me **dolapofalanajames@gmail.com or omodolappo@gmail.com**
 
