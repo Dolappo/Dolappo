@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dolappo](https://github.com/dolappo)
 
-- 💬 Ask me about **Flutter, Dart, Firebase and all things Mobile app, and Design**
+- 💬 Ask me about **Flutter, Dart, AI/ML and all things Mobile app**
 
 - 📫 How to reach me **dolapofalanajames@gmail.com or omodolappo@gmail.com**
 
